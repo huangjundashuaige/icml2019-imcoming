@@ -1,0 +1,46 @@
+time  0 sec :::RANK 0 ::: >>> Preparing data..
+time  0 sec :::RANK 4 ::: >>> Preparing data..
+time  0 sec :::RANK 2 ::: >>> Preparing data..
+time  3 sec :::RANK 0 ::: >>> Building model..
+time  3 sec :::RANK 0 ::: >>> Epoch: 0
+time  0 sec :::RANK 3 ::: >>> Preparing data..
+time  0 sec :::RANK 5 ::: >>> Preparing data..
+time  4 sec :::RANK 2 ::: >>> Building model..
+time  4 sec :::RANK 2 ::: >>> Epoch: 0
+time  4 sec :::RANK 4 ::: >>> Building model..
+time  4 sec :::RANK 4 ::: >>> Epoch: 0
+time  6 sec :::RANK 3 ::: >>> Building model..
+time  6 sec :::RANK 3 ::: >>> Epoch: 0
+time  6 sec :::RANK 5 ::: >>> Building model..
+time  6 sec :::RANK 5 ::: >>> Epoch: 0
+time  0 sec :::RANK 1 ::: >>> Preparing data..
+time  9 sec :::RANK 1 ::: >>> Building model..
+time  9 sec :::RANK 1 ::: >>> Epoch: 0
+time  10 sec :::RANK 3 ::: TRAIN -- epoch: 0 -- batch_index: 0 -- total: 78 -- loss: 2.3452870845794678 -- loss-avg: 2.3452870845794678 -- accuracy: 0
+time  10 sec :::RANK 2 ::: TRAIN -- epoch: 0 -- batch_index: 0 -- total: 78 -- loss: 2.315133571624756 -- loss-avg: 2.315133571624756 -- accuracy: 0
+time  10 sec :::RANK 4 ::: TRAIN -- epoch: 0 -- batch_index: 0 -- total: 78 -- loss: 2.29125714302063 -- loss-avg: 2.29125714302063 -- accuracy: 0
+time  10 sec :::RANK 5 ::: TRAIN -- epoch: 0 -- batch_index: 0 -- total: 78 -- loss: 2.321855306625366 -- loss-avg: 2.321855306625366 -- accuracy: 0
+time  10 sec :::RANK 1 ::: TRAIN -- epoch: 0 -- batch_index: 0 -- total: 78 -- loss: 2.341402769088745 -- loss-avg: 2.341402769088745 -- accuracy: 0
+time  13 sec :::RANK 2 ::: TRAIN -- epoch: 0 -- batch_index: 1 -- total: 78 -- loss: 2.307454824447632 -- loss-avg: 2.3112940788269043 -- accuracy: 0
+time  13 sec :::RANK 3 ::: TRAIN -- epoch: 0 -- batch_index: 1 -- total: 78 -- loss: 2.3113040924072266 -- loss-avg: 2.3282957077026367 -- accuracy: 0
+time  13 sec :::RANK 5 ::: TRAIN -- epoch: 0 -- batch_index: 1 -- total: 78 -- loss: 2.2833549976348877 -- loss-avg: 2.302605152130127 -- accuracy: 0
+time  13 sec :::RANK 4 ::: TRAIN -- epoch: 0 -- batch_index: 1 -- total: 78 -- loss: 2.283719539642334 -- loss-avg: 2.2874884605407715 -- accuracy: 23
+time  13 sec :::RANK 1 ::: TRAIN -- epoch: 0 -- batch_index: 1 -- total: 78 -- loss: 2.3229105472564697 -- loss-avg: 2.3321566581726074 -- accuracy: 0
+time  20 sec :::RANK 1 ::: TRAIN -- epoch: 0 -- batch_index: 2 -- total: 78 -- loss: 2.3262195587158203 -- loss-avg: 2.3301775455474854 -- accuracy: 0
+time  20 sec :::RANK 2 ::: TRAIN -- epoch: 0 -- batch_index: 2 -- total: 78 -- loss: 2.307488203048706 -- loss-avg: 2.310025453567505 -- accuracy: 0
+time  20 sec :::RANK 5 ::: TRAIN -- epoch: 0 -- batch_index: 2 -- total: 78 -- loss: 2.291926145553589 -- loss-avg: 2.2990455627441406 -- accuracy: 0
+time  20 sec :::RANK 4 ::: TRAIN -- epoch: 0 -- batch_index: 2 -- total: 78 -- loss: 2.2832682132720947 -- loss-avg: 2.286081552505493 -- accuracy: 32
+time  20 sec :::RANK 3 ::: TRAIN -- epoch: 0 -- batch_index: 2 -- total: 78 -- loss: 2.31265926361084 -- loss-avg: 2.3230836391448975 -- accuracy: 0
+time  21 sec :::RANK 3 ::: TRAIN -- epoch: 0 -- batch_index: 3 -- total: 78 -- loss: 2.312299966812134 -- loss-avg: 2.320387601852417 -- accuracy: 0
+time  21 sec :::RANK 1 ::: TRAIN -- epoch: 0 -- batch_index: 3 -- total: 78 -- loss: 2.3244690895080566 -- loss-avg: 2.3287506103515625 -- accuracy: 0
+time  21 sec :::RANK 2 ::: TRAIN -- epoch: 0 -- batch_index: 3 -- total: 78 -- loss: 2.3073041439056396 -- loss-avg: 2.309345245361328 -- accuracy: 0
+time  21 sec :::RANK 5 ::: TRAIN -- epoch: 0 -- batch_index: 3 -- total: 78 -- loss: 2.2924611568450928 -- loss-avg: 2.2973995208740234 -- accuracy: 0
+time  21 sec :::RANK 4 ::: TRAIN -- epoch: 0 -- batch_index: 3 -- total: 78 -- loss: 2.280395030975342 -- loss-avg: 2.2846598625183105 -- accuracy: 37
+time  24 sec :::RANK 4 ::: TRAIN -- epoch: 0 -- batch_index: 4 -- total: 78 -- loss: 2.283057928085327 -- loss-avg: 2.284339427947998 -- accuracy: 39
+time  24 sec :::RANK 5 ::: TRAIN -- epoch: 0 -- batch_index: 4 -- total: 78 -- loss: 2.2886464595794678 -- loss-avg: 2.2956490516662598 -- accuracy: 0
+time  24 sec :::RANK 3 ::: TRAIN -- epoch: 0 -- batch_index: 4 -- total: 78 -- loss: 2.3111231327056885 -- loss-avg: 2.3185346126556396 -- accuracy: 0
+time  24 sec :::RANK 1 ::: TRAIN -- epoch: 0 -- batch_index: 4 -- total: 78 -- loss: 2.320970296859741 -- loss-avg: 2.3271946907043457 -- accuracy: 0
+time  24 sec :::RANK 2 ::: TRAIN -- epoch: 0 -- batch_index: 4 -- total: 78 -- loss: 2.307772636413574 -- loss-avg: 2.309030771255493 -- accuracy: 0
+time  25 sec :::RANK 5 ::: TRAIN -- epoch: 0 -- batch_index: 5 -- total: 78 -- loss: 2.290245771408081 -- loss-avg: 2.294748544692993 -- accuracy: 0
+time  25 sec :::RANK 3 ::: TRAIN -- epoch: 0 -- batch_index: 5 -- total: 78 -- loss: 2.311173677444458 -- loss-avg: 2.317307710647583 -- accuracy: 0
+time  25 sec :::RANK 2 ::: TRAIN -- epoch: 0 -- batch_index: 5 -- total: 78 -- loss: 2.307544469833374 -- loss-avg: 2.3087830543518066 -- accuracy: 0
