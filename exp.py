@@ -1,3 +1,5 @@
+
+
 from __future__ import print_function
 import argparse
 import torch
@@ -55,7 +57,7 @@ def test(args, model, device, test_loader):
 
     test_loss /= len(test_loader.dataset)
     
-    print('\nTest set: Time: {}\tAverage loss: {:.4f}, Accuracy: {}/{} ({f}%)\n'.format(time.time(),
+    print('\nTest set: Time: {}\tAverage loss: {:.4f}, Accuracy: {}/{} ({}%)\n'.format(time.time(),
         test_loss, correct, len(test_loader.dataset),
         100. * correct / len(test_loader.dataset)))
 
