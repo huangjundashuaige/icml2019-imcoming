@@ -55,7 +55,7 @@ def test(args, model, device, test_loader):
 
     test_loss /= len(test_loader.dataset)
     
-    f.write('\nTest set: Time: {}\tAverage loss: {:.4f}, Accuracy: {}/{} ({f}%)\n'.format(time.time(),
+    print('\nTest set: Time: {}\tAverage loss: {:.4f}, Accuracy: {}/{} ({f}%)\n'.format(time.time(),
         test_loss, correct, len(test_loader.dataset),
         100. * correct / len(test_loader.dataset)))
 
